@@ -1,0 +1,27 @@
+/*
+ * IBM Plex Sans
+*/
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url("/static/fonts/IBM_plex/woff2/IBMPlexSans-Regular-Latin1.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 450;
+  src: url("/static/fonts/IBM_plex/woff2/IBMPlexSans-Text-Latin1.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url("/static/fonts/IBM_plex/woff2/IBMPlexSans-Medium-Latin1.woff2") format("woff2");
+  font-display: swap;
+}
+
